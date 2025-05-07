@@ -1,0 +1,21 @@
+<table><header>W/L | Team1 | Score | Team2 | Date | League</header>
+        <row>W | Arsenal | 3 - 1 | Liverpool | 4 Feb, 2024 | English Premier League</row>
+        <row>W | Nottingham Forest | 1 - 2 | Arsenal | 31 Jan, 2024 | English Premier League</row>
+        <row>W | Arsenal | 5 - 0 | Crystal Palace | 20 Jan, 2024 | English Premier League</row>
+        <row>L | Arsenal | 0 - 2 | Liverpool | 7 Jan, 2024 | English FA Cup</row>
+        <row>L | Fulham | 2 - 1 | Arsenal | 31 Dec, 2023 | English Premier League</row></table>
+
+<table><header>W/L | Team1 | Score | Team2 | Date | League</header>
+        <row>W | Nottingham Forest | 1 - 2 | Arsenal | 31 Jan, 2024 | English Premier League</row>
+        <row>W | Arsenal | 5 - 0 | Crystal Palace | 20 Jan, 2024 | English Premier League</row>
+        <row>L | Arsenal | 0 - 2 | Liverpool | 7 Jan, 2024 | English FA Cup</row>
+        <row>L | Fulham | 2 - 1 | Arsenal | 31 Dec, 2023 | English Premier League</row>
+        <row>L | Arsenal | 0 - 2 | West Ham United | 29 Dec, 2023 | English Premier League</row>
+</table>
+
+<table><header>Team1 | Score | Team2 | Date | League</header>
+        <row>Arsenal | 0 - 2 | Liverpool | 7 Jan, 2024 | English FA Cup</row>
+        <row>Liverpool | 1 - 1 | Arsenal | 23 Dec, 2023 | English Premier League</row>
+        <row>Liverpool | 2 - 2 | Arsenal | 9 Apr, 2023 | English Premier League</row>
+        <row>Arsenal | 3 - 2 | Liverpool | 9 Oct, 2022 | English Premier League</row>
+        <row>Arsenal | 0 - 2 | Liverpool | 17 Mar, 2022 | English Premier League</row></table>
