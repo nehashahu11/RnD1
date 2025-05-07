@@ -1,0 +1,75 @@
+<table>
+  <rows>
+    <row>
+      <col>Team name</col><col>PTS</col><col>FG%</col><col>3P%</col><col>FT%</col><col>AST</col><col>REB</col><col>TOV</col><col>Q1</col><col>Q2</col><col>Q3</col><col>Q4</col>
+    </row>
+    <row>
+      <col>Los Angeles Clippers</col><col>95</col><col>41</col><col>26</col><col>70</col><col>18</col><col>45</col><col>11</col><col>19</col><col>20</col><col>30</col><col>26</col>
+    </row>
+    <row>
+      <col>Houston Rockets</col><col>91</col><col>49</col><col>30</col><col>83</col><col>25</col><col>35</col><col>16</col><col>23</col><col>24</col><col>19</col><col>25</col>
+    </row>
+  </rows>
+  <rows>
+    <row>
+      <col>Team</col><col>Player</col><col>PTS</col><col>AST</col><col>REB</col><col>STL</col><col>BLK</col><col>TO</col>
+    </row>
+    <row>
+      <col>Los Angeles</col><col>Chris Paul</col><col>23</col><col>5</col><col>3</col><col>5</col><col>1</col><col>2</col>
+    </row>
+    <row>
+      <col>Los Angeles</col><col>Blake Griffin</col><col>18</col><col>4</col><col>8</col><col>2</col><col>0</col><col>0</col>
+    </row>
+    <row>
+      <col>Los Angeles</col><col>Randy Foye</col><col>15</col><col>4</col><col>5</col><col>1</col><col>1</col><col>0</col>
+    </row>
+    <row>
+      <col>Houston</col><col>Courtney Lee</col><col>25</col><col>2</col><col>5</col><col>0</col><col>0</col><col>0</col>
+    </row>
+    <row>
+      <col>Houston</col><col>Chase Budinger</col><col>19</col><col>1</col><col>6</col><col>2</col><col>0</col><col>3</col>
+    </row>
+    <row>
+      <col>Houston</col><col>Patrick Patterson</col><col>14</col><col>4</col><col>4</col><col>2</col><col>0</col><col>1</col>
+    </row>
+  </rows>
+</table>
+
+
+
+<table>
+  <rows>
+    <row>
+      <col>Team name</col><col>PTS</col><col>FG%</col><col>3P%</col><col>FT%</col><col>AST</col><col>REB</col><col>TOV</col><col>Q1</col><col>Q2</col><col>Q3</col><col>Q4</col>
+    </row>
+    <row>
+      <col>Los Angeles Clippers</col><col>95</col><col>47</col><col>29</col><col>68</col><col>21</col><col>43</col><col>14</col><col>17</col><col>26</col><col>21</col><col>31</col>
+    </row>
+    <row>
+      <col>Boston Celtics</col><col>89</col><col>39</col><col>42</col><col>79</col><col>18</col><col>48</col><col>16</col><col>19</col><col>25</col><col>15</col><col>30</col>
+    </row>
+  </rows>
+  <rows>
+    <row>
+      <col>Team</col><col>Player</col><col>PTS</col><col>AST</col><col>REB</col><col>STL</col><col>BLK</col><col>TO</col>
+    </row>
+    <row>
+      <col>Los Angeles</col><col>Rasual Butler</col><col>17</col><col>2</col><col>2</col><col>2</col><col>1</col><col>2</col>
+    </row>
+    <row>
+      <col>Los Angeles</col><col>Baron Davis</col><col>16</col><col>7</col><col>4</col><col>2</col><col>0</col><col>4</col>
+    </row>
+    <row>
+      <col>Los Angeles</col><col>Craig Smith</col><col>13</col><col>1</col><col>5</col><col>0</col><col>0</col><col>0</col>
+    </row>
+    <row>
+      <col>Boston</col><col>Paul Pierce</col><col>22</col><col>2</col><col>5</col><col>0</col><col>1</col><col>5</col>
+    </row>
+    <row>
+      <col>Boston</col><col>Kevin Garnett</col><col>17</col><col>2</col><col>2</col><col>0</col><col>0</col><col>0</col>
+    </row>
+    <row>
+      <col>Boston</col><col>Rajon Rondo</col><col>16</col><col>12</col><col>7</col><col>4</col><col>0</col><col>3</col>
+    </row>
+  </rows>
+</table>
